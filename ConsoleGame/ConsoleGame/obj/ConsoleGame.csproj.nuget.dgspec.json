@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\for Unity\\ConsoleGame\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj": {}
+    "E:\\for Unity\\ConsoleGame\\ConsoleGAME\\ConsoleGame\\ConsoleGame.csproj": {}
   },
   "projects": {
-    "E:\\for Unity\\ConsoleGame\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj": {
+    "E:\\for Unity\\ConsoleGame\\ConsoleGAME\\ConsoleGame\\ConsoleGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\for Unity\\ConsoleGame\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+        "projectUniqueName": "E:\\for Unity\\ConsoleGame\\ConsoleGAME\\ConsoleGame\\ConsoleGame.csproj",
         "projectName": "ConsoleGame",
-        "projectPath": "E:\\for Unity\\ConsoleGame\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+        "projectPath": "E:\\for Unity\\ConsoleGame\\ConsoleGAME\\ConsoleGame\\ConsoleGame.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "E:\\for Unity\\ConsoleGame\\ConsoleGame\\ConsoleGame\\obj\\",
+        "outputPath": "E:\\for Unity\\ConsoleGame\\ConsoleGAME\\ConsoleGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
